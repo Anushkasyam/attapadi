@@ -1,0 +1,1 @@
+var json_yyjbook2_2 = {"type":"FeatureCollection","name":"yyjbook2_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

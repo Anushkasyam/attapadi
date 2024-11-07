@@ -1,0 +1,1 @@
+var json_Book2_1 = {"type":"FeatureCollection","name":"Book2_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"bhavani":"attapadi reserved f","lati":"11�09'08\"N", "longi": "76�46'39\"E"},"geometry":{"type":"Point","coordinates":[76.7775,11.152222222222223]}}]}
